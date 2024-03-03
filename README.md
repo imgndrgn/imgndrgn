@@ -18,5 +18,5 @@
 </h1>
 </div>
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ZDTbix65Me1YDNLDF3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ui-web-dev-alephbetcomics-ZDTbix65Me1YDNLDF3">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlMWlxN3Q4Y3J3eDFpajV0Y25lczBrOXF1M3VyczdoYmYyMXJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif"/>
 </div>
