@@ -32,5 +32,6 @@ I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - 🤔 I’m looking for a tribe of web dev enthusiaists with a flair for designing and building web related contents.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adesheye-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesheye/)
+
 
