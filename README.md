@@ -21,3 +21,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlMWlxN3Q4Y3J3eDFpajV0Y25lczBrOXF1M3VyczdoYmYyMXJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif"/>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4yNDc1d29raWk2ZHMzM2IweHhhaGN6cjdqbzhjZTRiNW81OGllcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- 🔭 I’m currently working on python and javascript related projects
+
+- 👯 I’m looking to collaborate on frontend projects.
+
+- 🤔 I’m looking for a tribe of web dev enthusiaists with a flair for designing and building web related contents.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")
